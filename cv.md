@@ -20,6 +20,6 @@
 *Git
 *BEM
 ###Courses:###
-*[https://praktikum.yandex.ru/profile/web/]('Yandex.Praktikum')*
+*[https://praktikum.yandex.ru/profile/web/]('Yandex.Praktikum - my training project')*
 ###Work experience:###
 *Link Github- https://github.com/sweti2008/russian-travel*
