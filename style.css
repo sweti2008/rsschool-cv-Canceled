@@ -1,0 +1,28 @@
+.container {
+    margin: 0 auto;
+    background-color: grey;
+}
+.photo {
+    width: 10px;
+    height: 10px;
+}
+
+
+.name-prof {
+    font-style: oblique; 
+    color: rgb(63, 62, 62);
+}
+
+.contacts {
+    font-style: oblique;
+    display: flex;
+   
+}
+
+.wrapper-number {
+    margin-right: 10px;
+}
+
+.wrapper-discord {
+    margin-right: 10px; 
+}
